@@ -6,6 +6,7 @@ Since the hand writing isn't readable on some spots, I transcripted it to a read
 
 **Original Image**
 ![Bingo Whiteboard CA Windows Vista](windows_vista_board_code_audit.jpg)  
+> Image- and story source: https://blog.fefe.de/?ts=a81a5919  
 
 > *Legend:* 
 > `(?)`  -> *unsure about the reading*  
@@ -40,6 +41,3 @@ L8: "//wi\*e" (?)(c: word is highlighted by a circle)
 | 8 | "The ISP is trusted"                | "only 15 sec window"                         | "perf hit"                                           | "only local subnet"                               | "But we look up the name securely<br>before connecting insecurely" (?) | "It's ok, we have<br>SECURITY MUMBOJUMBO"                    | "there are other ways to DoS<br>network services" | "The chances of this happening<br>are so so so low" |
 | 9 | "office \* \*"                      | <empty>                                      | <empty>                                              | <empty>                                           | <empty>                                                                | <empty>                                                      | <empty>                                           | <empty>                                             |
 
-
-> Image- and story source:  
-> https://blog.fefe.de/?ts=a81a5919
